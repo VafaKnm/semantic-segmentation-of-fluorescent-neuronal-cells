@@ -3,4 +3,4 @@ This is a python code written in Kaggle environment for semantic segmentation of
 
 It's my pleasure if we are in touch on Kaggle!
 
-https://www.kaggle.com/vafaknm
+https://www.kaggle.com/code/vafaknm/semantic-segmentation-of-cells-using-custom-u-net
